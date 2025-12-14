@@ -12,7 +12,7 @@ Global Earthquakes 2015 - 2025 : 10 years of Data
 
 Steps:  Open the csv file. It contained data of a data with 84000+ Records.
 Select Data from 2020 to 2025. Save it as earthquake.xlsx. 
-OPen the earthquake.xlsx sheet. Select the columns which gives information for analysis
+Open the earthquake.xlsx sheet. Select the columns which gives information for analysis
 Latitude -	The latitude of the earthquake's epicenter, reported in decimal degrees(North/South).
 Longitude -	The longitude of the earthquake's epicenter, reported in decimal degrees(East/West).
 Depth  -	  Depth of the earthquake in kilometers (km).
